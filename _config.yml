@@ -6,7 +6,7 @@ title: Tomas Osborne | Monster Project
 # Edit next line, replacing 'techfolios' with your github username
 url: "https://Monster-Project.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: "/Tomas-Osborne"
+baseurl: ""
 
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
